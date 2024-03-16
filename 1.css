@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div{
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    gap: 3px;
+}
+#submit{
+    color: white;
+    background-color: blueviolet;
+    padding: 5px;
+}
+#hi{
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
